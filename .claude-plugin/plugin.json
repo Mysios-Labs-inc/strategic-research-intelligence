@@ -2,7 +2,10 @@
   "name": "strategic-research-intelligence",
   "description": "Professional strategic research and competitive intelligence workflows. Autonomous market analysis, trend monitoring, and business intelligence capabilities built on Firecrawl for strategic decision-making.",
   "version": "1.0.0",
-  "author": "Mysios Labs",
+  "author": {
+    "name": "Mysios Labs Inc",
+    "email": "hello@mysioslabs.com"
+  },
   "license": "MIT",
   "keywords": [
     "strategic-intelligence",
@@ -14,24 +17,5 @@
     "mysios-professional"
   ],
   "homepage": "https://github.com/Mysios-Labs-inc/strategic-research-intelligence",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Mysios-Labs-inc/strategic-research-intelligence.git"
-  },
-  "commands": [],
-  "skills": [
-    "trend-monitor",
-    "research-assist",
-    "competitive-analysis",
-    "ai-research-agent",
-    "interactive-investigation",
-    "intelligence-monitor"
-  ],
-  "dependencies": {
-    "firecrawl": "^1.0.3"
-  },
-  "integrations": [
-    "career-intelligence",
-    "firecrawl"
-  ]
+  "repository": "https://github.com/Mysios-Labs-inc/strategic-research-intelligence"
 }
